@@ -23,7 +23,7 @@ python scripts/daily_report.py
 
 ```bash
 sudo apt update && sudo apt install python3 python3-pip python3-venv git -y
-git clone https://github.com/jamesmolier/home-energy-monitor.git
+git clone https://github.com/jamesmolier-cmyk/home-energy-monitor.git
 cd home-energy-monitor
 python3 -m venv venv
 source venv/bin/activate

@@ -1,0 +1,8 @@
+venv/
+.env
+reports/*.json
+reports/*.csv
+__pycache__/
+*.pyc
+.DS_Store
+.aira_tokens.json
